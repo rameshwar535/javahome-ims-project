@@ -3,7 +3,7 @@
 	<groupId>javahome</groupId>
 	<artifactId>Realtime</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.29-SNAPSHOT</version>
+	<version>1.0.29</version>
 	<name>Ims Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
@@ -27,7 +27,7 @@
 			<connection>scm:git:https://github.com/pramoddevops/javahome-ims-project.git</connection>
 			<developerConnection>scm:git:https://github.com/pramoddevops/javahome-ims-project.git</developerConnection>
 	  
-       <tag>HEAD</tag>
+       <tag>Realtime-1.0.29</tag>
      </scm>
 	<!-- Nexus server details start -->
 	<distributionManagement>
