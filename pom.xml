@@ -23,7 +23,7 @@
 	</properties>
 	   <!-- To create the tag in git repo provide the repo details-->
 	   <scm>
-			<url>https://github.com/devopstoolsteam/javahome-ims-project</url>
+			<url>https://github.com/pramoddevops/javahome-ims-project</url>
 			<connection>scm:git:https://github.com/devopstoolsteam/javahome-ims-project.git</connection>
 			<developerConnection>scm:git:https://github.com/devopstoolsteam/javahome-ims-project.git</developerConnection>
 	  
